@@ -3,7 +3,7 @@
 
 #include "stdafx.h"
 
-
+// Add a dummy comment
 
 
 int main()
